@@ -1,5 +1,5 @@
 # Portfolio
-This is a portfolio of a trainee software tester
+This is a portfolio of a trainee software tester // *Build in progress..*
 
 
 - About me
