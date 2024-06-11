@@ -106,7 +106,7 @@ Also an individual who in his free time shares video games with friends. That st
 ## Examples of my work
 
   ### Curso CODERHOUSE
-    -https://drive.google.com/drive/folders/1j0bRUd1DyV7OUssf-NT_b2FzuE_PrXxs?usp=sharing
+    https://drive.google.com/drive/folders/1j0bRUd1DyV7OUssf-NT_b2FzuE_PrXxs?usp=sharing
 
 
 ## Books I readed
