@@ -105,5 +105,8 @@ Also an individual who in his free time shares video games with friends. That st
   + https://www.linkedin.com/learning/certificates/77690be96e26b563272da14421e354045d0ae97bd91a098e68c9a00750be7a1f?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOe0kmbJKTE2WKNGvuofepQ%3D%3D
 ## Examples of my work
 
+  ### Curso CODERHOUSE
+    -https://drive.google.com/drive/folders/1j0bRUd1DyV7OUssf-NT_b2FzuE_PrXxs?usp=sharing
+
 
 ## Books I readed
