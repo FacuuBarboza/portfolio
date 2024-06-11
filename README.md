@@ -34,6 +34,7 @@ Also an individual who in his free time shares video games with friends. That st
 * Autodidact
 
 ### HARD
+
 1. Programming Languages
    - *Java Fundamentals to Intermediate.*
      - Knows how create functions and algorithms.
@@ -72,8 +73,6 @@ Also an individual who in his free time shares video games with friends. That st
    - Able to create test cases and checklists and know how and in which situations to use them effectively.
    - Able to prepare comprehensive bug reports and provide detailed session reports
 7. API testing
-   -
-   -
 
 ## Tools
 1. Cypress
@@ -105,5 +104,6 @@ Also an individual who in his free time shares video games with friends. That st
 + MySQL Esencial
   + https://www.linkedin.com/learning/certificates/77690be96e26b563272da14421e354045d0ae97bd91a098e68c9a00750be7a1f?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOe0kmbJKTE2WKNGvuofepQ%3D%3D
 ## Examples of my work
+
 
 ## Books I readed
