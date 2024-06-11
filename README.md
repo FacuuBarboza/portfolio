@@ -76,6 +76,18 @@ Also an individual who in his free time shares video games with friends. That st
    -
 
 ## Tools
+1. Cypress
+   - Knows the fudamentals for create test cases.
+2. Playwright
+   - Knows the fudamentals for create test cases.
+   - Knows the basic sintaxis with typescript for automation test.
+3. Selenium
+   - Knows the fundamentals
+4. JMeter
+5. Postman
+   - Able to create test cases for CRUD any API.
+   - Knows json and how do test in the app.
+
 
 ## Courses/Certifies
 + Systems' Engineering at UTN
